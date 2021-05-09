@@ -1,4 +1,4 @@
-# CodingChallenge---Array-Queries
+# Coding Challenge---Array-Queries
 
 Task:
 
